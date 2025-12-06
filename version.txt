@@ -1,6 +1,1 @@
-ZMODS 11.0
-:"gkssh
-hdks
-gsjs
-hsks
-hsj
+11.0 ZMODS
