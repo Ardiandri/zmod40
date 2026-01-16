@@ -1,6 +1,1 @@
-5.0 ZMODS
-gsjs
-hdj
-hdsk
-gsjs
-gsjs
+ZMODS 5.0
