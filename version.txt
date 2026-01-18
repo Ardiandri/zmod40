@@ -1,1 +1,7 @@
-ZMODS 5.0
+5.0 ZMODS
+bdk
+hdd
+hs
+jsk
+hsjs
+bsjs
