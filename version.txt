@@ -1,7 +1,1 @@
-5.0 ZMODS
-bdk
-hdd
-hs
-jsk
-hsjs
-bsjs
+ ZMODS 6.0
