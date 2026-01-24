@@ -1,5 +1,1 @@
-6.0 ZMODS
-+$($
-hdkd
-jdkd.hdjd
-hdjd
+ZMODS 7.0
