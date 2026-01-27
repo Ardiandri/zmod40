@@ -1,5 +1,1 @@
-8.0 ZMODS
-hsjs
-hdjd
-bdjd
-bsjs
+ZMODS 8.0
