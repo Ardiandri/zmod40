@@ -1,3 +1,1 @@
-8.0._ZMODS_
-gxj
-hsjs
+_ZMODS 8.0
