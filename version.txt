@@ -1,6 +1,1 @@
-ZMODS 11.0
-vssj
-hsjd
-hdj
-hsjs
-hsj
+11.0 ZMODS
