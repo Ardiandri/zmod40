@@ -1,7 +1,1 @@
-ZMODS 12.0
-bdjdd
-hd
-hdjd
-hsjs
-hdjd
-
+12 ZMODS
