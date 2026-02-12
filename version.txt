@@ -1,4 +1,1 @@
-ZMODS 14
-bdn
-ndsm
-hdsk.hdhd
+14.1 ZMODS
