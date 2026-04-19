@@ -1,6 +1,1 @@
-ZMODS 7.3.0
-Gsjs
-hsjs
-hskd
-hdkd
-hdjs
+7 ZMODS
