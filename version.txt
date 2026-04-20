@@ -1,7 +1,1 @@
-ZMODS 7.1
-Gssj
-hsjs
-hssk
-shsj
-hssj
-hssj
+8.0 ZMODS
