@@ -1,1 +1,4 @@
-ZMODS 8.2.0
+8.2.1 ZMODS
+hddllris
+hfldl
+jr
