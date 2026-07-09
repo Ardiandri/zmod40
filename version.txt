@@ -1,4 +1,1 @@
- ZMODS 1.0
-&$+$
-hdjs
-hdjd
+1.0 ZMODS
