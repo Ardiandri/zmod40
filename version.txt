@@ -1,4 +1,1 @@
-2.1.1 ZMODS
-vznz
-bdnd
-hsks
+ZMODS 2.1.1
