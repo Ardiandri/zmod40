@@ -1,5 +1,1 @@
- 2.2.0 ZMODS
-bdnd
-ndnd
-dnd
-
+ZMODS 2.2.0
