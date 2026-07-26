@@ -1,5 +1,1 @@
-2.2.0 ZMODS
-bdns
-dndm
-dnd
-djmd
+ZMODS 2.2.0
