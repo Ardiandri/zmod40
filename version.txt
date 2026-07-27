@@ -1,5 +1,1 @@
-2.3.0 ZMODS
-bdnd
-dmdm
-nddm
-dnmd
+ZMODS 2.3.1
