@@ -1,5 +1,1 @@
- 2.3.2 Z-MODS
-bdns
-jddm
-djjd
-dhsj
+ZMODS 2.3.2
