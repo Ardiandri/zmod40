@@ -1,6 +1,1 @@
-ZMODS 2.3.6
-hsjd
-hd
-bdnd
-bdnd
-dbnd
+2.4.0 ZMODS
