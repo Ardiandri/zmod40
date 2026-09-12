@@ -1,5 +1,1 @@
-ZMODS 1.1.1
-;$+$(
-hdjd
-jdjd
-hsjd
+1.1.1 ZMODS
