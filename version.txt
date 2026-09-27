@@ -1,4 +1,1 @@
-ZMODS 1.3.5
-;$!$
-bdmd
-jdkr
+1.3.6 ZMODS
