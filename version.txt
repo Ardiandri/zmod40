@@ -1,4 +1,1 @@
-ZMODS 1.4.9
-cdscv
-gfhtg
-thdgfr
+1.5.0 ZMODS
